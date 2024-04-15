@@ -1,0 +1,9 @@
+h1 {
+    font-size: 110px;
+    color: rgba(61, 56, 51, 0.87);
+    margin: auto;
+    border: 5px solid black;
+    background-color: rgba(221, 220, 212, 0.979);
+    width: max-content;
+    padding: 10px;
+}
